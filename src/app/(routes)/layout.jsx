@@ -1,7 +1,7 @@
 "use client";
 import React, { useEffect } from "react";
-import SideNav from "./_components/SideNav";
-import DashboardHeader from "./_components/DashboardHeader";
+import SideNav from "./dashboard/_components/SideNav";
+import DashboardHeader from "./dashboard/_components/DashboardHeader";
 import { db } from "@/utils/dbConfig";
 import { Budgets } from "@/utils/schema";
 import { useUser } from "@clerk/nextjs";
