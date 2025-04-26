@@ -17,9 +17,6 @@
    
 </div>
 
-🚨 Eğitim
-Bu depo, YouTube kanalımız <a href="https://www.youtube.com/@albertmends/videos" target="_blank"><b>Code with Albert</b></a> üzerinde yayınlanan kapsamlı eğitimin kodlarını içermektedir.
-
 <a name="tech-stack">⚙️ Kullanılan Teknolojiler</a>
 Next.js
 
